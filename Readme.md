@@ -9,8 +9,8 @@
 - 🎧 Favorite Bands: SlipKnot, Metllica
 - 🎹 Favirite Songs: Psycosocial, Dead Memories (Both from SlipKnot), Creepin Death (Metallica)
 - 🎤 Favorite Albums: All Hope is Gone (SlipKnot), Ride The Lighting (Metallica)
-- 🎻 Bands that i like SlipKnot, Metallica, Rammstein, Black Sabbath, Pantera, Ozzy Osbourne, Iron Maiden, Nirvana, Molchat Doma, Nazghot, Mayhem, Darkthrone
-- 🎲 My Spotify Playlist (not the Black Metal, Death Core or Death Metal playlist) [link](https://open.spotify.com/playlist/7y7HYCEwZ26g7ro13lD2rJ?si=b568a8a4766d495a) 
+- 🎻 Bands that i like SlipKnot, Metallica, Rammstein, Black Sabbath, Pantera, Ozzy Osbourne, Iron Maiden, Nirvana, Molchat Doma, Nazghot, Mayhem, Darkthrone and more
+- 🎲 My Spotify Playlist (3000+ songs) [link](https://open.spotify.com/playlist/641boKjG3AHj4r4THn0AqW?si=4c78d92b142648ce) 
 
 ### Coding 
 
