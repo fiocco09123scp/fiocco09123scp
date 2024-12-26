@@ -3,15 +3,15 @@
 ### About me
 
 - 👋 Hi im @fiocco09123scp
-- 💻 Im a passionate coder from Italy
-- 🎸 I play guitar
-- 🎵 I like Havy metal, Trash Metal, Nu Metal, Industaial Metal, Death Metal, Death Core, Black Metal
-- 🎧 Favorite Bands: SlipKnot, Metllica
-- 🎹 Favirite Songs: Psycosocial, Dead Memories (Both from SlipKnot), Creepin Death (Metallica)
-- 🎤 Favorite Albums: All Hope is Gone (SlipKnot), Ride The Lighting (Metallica)
-- 🎻 Bands that i like SlipKnot, Metallica, Rammstein, Black Sabbath, Pantera, Ozzy Osbourne, Iron Maiden, Nirvana, Molchat Doma, Nazghot, Mayhem, Darkthrone and more
-- 🎲 My Spotify Playlist (3000+ songs) [link](https://open.spotify.com/playlist/641boKjG3AHj4r4THn0AqW?si=4c78d92b142648ce) 
-
+- 💻 Im a passionate developer from Italy
+- 🎸 I play guitar in my band called Rotting Demons
+- 🎵 I like Havy metal, Trash Metal, Nu Metal, Industaial Metal, Death Metal, Death Core, Black Metal, War Metal
+- 🎧 Favorite Bands: Metallica, Slipknot, Nazghor
+- 🎹 Favirite Songs: Psycosocial, Dead Memories (Both from SlipKnot), Creepin Death (Metallica), Primordial Lineage (Nazghor)
+- 🎤 Favorite Albums: All Hope is Gone (SlipKnot), Ride The Lighting (Metallica), Seven Secular Crusades (Nazghor)
+- 🎻 Bands that i like SlipKnot, Metallica, Rammstein, Black Sabbath, Pantera, Ozzy Osbourne, Iron Maiden, Nirvana, Molchat Doma, Nazghor, Mayhem, Darkthrone, Hellhammer, Dark Funeral, Cannibal Corpse, Rotting Christ, immortal, Attila, Mutilation, Gorogoth, Gospel of the horns.
+- 🎲 My Spotify Playlist (3000+ songs) [link][
+](https://open.spotify.com/playlist/7y7HYCEwZ26g7ro13lD2rJ?si=QEO_yQwORNqKXEUtMQCq4w)
 ### Coding 
 
 - 📋 i Work and i am the owner of Ultimate Delopers 
