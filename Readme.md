@@ -4,12 +4,12 @@
 
 - 👋 Hi im @fiocco09123scp
 - 💻 Im a Software / Web Developer from Italy
-- 🎸 I play guitar in my band called Rotting Demons
+- 🎸 I play guitar in Blood Pool 
 - 🎵 I like All types of Metal Music
-- 🎧 Favorite Bands: Metallica, Slipknot, Nazghor
-- 🎹 Favirite Songs: Psycosocial, Dead Memories (Both from SlipKnot), Creepin Death (Metallica), Primordial Lineage (Nazghor)
-- 🎤 Favorite Albums: All Hope is Gone (SlipKnot), Ride The Lighting (Metallica), Seven Secular Crusades (Nazghor)
-- 🎻 Bands that i like SlipKnot, Metallica, Rammstein, Black Sabbath, Pantera, Ozzy Osbourne, Iron Maiden, Nirvana, Molchat Doma, Nazghor, Mayhem, Darkthrone, Hellhammer, Dark Funeral, Cannibal Corpse, Rotting Christ, immortal, Attila, Mutilation, Gorogoth, Gospel of the horns.
+- 🎧 Favorite Bands: Kanonenfieber, Fulci, Nazghor
+- 🎹 Favirite Songs: Tropical Sun (Fulci), Der Maulwurf (Kanonenfieber), The left hand of Baphomet (Nazghor)
+- 🎤 Favorite Albums: Die Urkatastrophe (Kanonenfieber), Tropical Sun (Fulci), Seventh Secular Crusades (Nazghor)
+- 🎻 Bands that i like Kanonenfieber, Fulci, Cannibal Corpse, Crowbar
 - 🎲 My Spotify Playlist [link](https://open.spotify.com/playlist/7y7HYCEwZ26g7ro13lD2rJ?si=QEO_yQwORNqKXEUtMQCq4w)
   
 ### Coding 
